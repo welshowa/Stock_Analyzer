@@ -1,0 +1,24 @@
+Symbol,company,sector,pe_ratio,market_cap,dividend_yield,price
+AAPL,Apple Inc.,Technology,31.613674,2987144773632,0.53,198.85
+MSFT,Microsoft Corporation,Technology,31.440418,2902894837760,0.92,390.49
+GOOG,Alphabet Inc.,Communication Services,20.007452,1947585871872,0.54,161.06
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,34.55696,2025220472832,0.0,191.1
+TSLA,"Tesla, Inc.",Consumer Cyclical,133.43138,875536777216,0.0,272.2
+JPM,JP Morgan Chase & Co.,Financial Services,11.859311,652168200192,2.66,234.34
+META,"Meta Platforms, Inc.",Communication Services,24.57089,1484142018560,0.42,585.77
+NFLX,"Netflix, Inc.",Communication Services,47.63073,404431405056,0.0,945.47
+NVDA,NVIDIA Corporation,Technology,38.887756,2789652037632,0.04,114.33
+INTC,Intel Corporation,Technology,0.0,93883498496,2.24,21.53
+V,Visa Inc.,Financial Services,33.47734,641260781568,0.75,332.43
+BA,Boeing Company (The),Industrials,0.0,121002098688,0.0,160.82
+DIS,Walt Disney Company (The),Communication Services,29.688313,165304320000,1.2,91.44
+IBM,International Business Machines,Technology,36.65265,218194493440,2.94,235.31
+PYPL,"PayPal Holdings, Inc.",Financial Services,16.027569,63262023680,0.0,63.95
+WMT,Walmart Inc.,Consumer Defensive,37.17842,718309752832,1.13,89.6
+KO,Coca-Cola Company (The),Consumer Defensive,28.434958,301034700800,2.92,69.95
+GS,"Goldman Sachs Group, Inc. (The)",Financial Services,12.74963,160638042112,2.55,516.87
+CRM,"Salesforce, Inc.",Technology,41.627945,254828380160,0.69,265.17
+AMD,"Advanced Micro Devices, Inc.",Technology,96.84,157329162240,0.0,96.84
+PFE,"Pfizer, Inc.",Healthcare,15.950355,127550914560,7.49,22.49
+UNH,UnitedHealth Group Incorporated,Healthcare,37.346676,529160896512,1.6,578.5
+LNR.TO,LINAMAR CORP,Consumer Cyclical,11.510739,2902780416,2.1,48.23

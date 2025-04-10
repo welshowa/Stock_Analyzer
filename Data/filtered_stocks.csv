@@ -1,0 +1,3 @@
+ticker,company,sector,pe_ratio,market_cap,dividend_yield,price
+AAPL,Apple Inc.,Technology,28.333069,2677163687936.0,0.53,178.215
+MSFT,Microsoft Corporation,Technology,29.0556,2680544296960.0,0.92,360.58
