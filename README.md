@@ -29,7 +29,7 @@ An interactive stock analysis and screening web application built with **Python*
 
 ## Screenshots
 
-![Graph Through Time](Images/Graph%20Through%20time.png)
+![Graph Through Time](Images/Graph%20Through%20Time.png)
 ![Stock Information](Images/Stock%20Information.png)
 
 ---
