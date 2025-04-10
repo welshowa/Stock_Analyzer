@@ -26,3 +26,10 @@ An interactive stock analysis and screening web application built with **Python*
 - **Data Source**: Yahoo Finance API (`yfinance`)
 
 ---
+
+## Screenshots
+
+![Graph Through Time](assets/Graph%20Through%20time.png)
+![Stock Information](assets/Stock%20Information.png)
+
+---
